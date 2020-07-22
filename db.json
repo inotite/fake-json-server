@@ -1,0 +1,34 @@
+{
+    "points": [
+        {
+            "PointId": 12,
+            "EquipmentId": 15,
+            "Name": "Point 1"
+        },
+        {
+            "PointId": 11,
+            "EquipmentId": 11,
+            "Name": "Point 2"
+        },
+        {
+            "PointId": 13,
+            "EquipmentId": 13,
+            "Name": "Point 3"
+        },
+        {
+            "PointId": 156,
+            "EquipmentId": 17,
+            "Name": "Point 4"
+        },
+        {
+            "PointId": 18,
+            "EquipmentId": 18,
+            "Name": "Point 5"
+        },
+        {
+            "PointId": 19,
+            "EquipmentId": 19,
+            "Name": "Point 6"
+        }
+    ]
+}
