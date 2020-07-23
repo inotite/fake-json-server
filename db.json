@@ -1,34 +1,96 @@
 {
     "points": [
         {
-            "PointId": 12,
             "EquipmentId": 15,
-            "Name": "Point 1"
+            "EquipmentName": "Equipment 1",
+            "Point": [
+                {
+                    "PointName": "Point 1",
+                    "PointId": 12
+                },
+                {
+                    "PointName": "Point 2",
+                    "PointId": 13
+                }
+            ]
         },
         {
-            "PointId": 11,
             "EquipmentId": 11,
-            "Name": "Point 2"
+            "EquipmentName": "Equipment 2",
+            "Point": [
+                {
+                    "PointName": "Point 3",
+                    "PointId": 14
+                },
+                {
+                    "PointName": "Point 4",
+                    "PointId": 15
+                },
+                {
+                    "PointName": "Point 15",
+                    "PointId": 125
+                }
+            ]
         },
         {
-            "PointId": 13,
             "EquipmentId": 13,
-            "Name": "Point 3"
+            "EquipmentName": "Equipment 3",
+            "Point": [
+                {
+                    "PointName": "Point 5",
+                    "PointId": 16
+                },
+                {
+                    "PointName": "Point 6",
+                    "PointId": 17
+                },
+                {
+                    "PointName": "Point 13",
+                    "PointId": 216
+                },
+                {
+                    "PointName": "Point 14",
+                    "PointId": 217
+                }
+            ]
         },
         {
-            "PointId": 156,
             "EquipmentId": 17,
-            "Name": "Point 4"
+            "EquipmentName": "Equipment 4",
+            "Point": [
+                {
+                    "PointName": "Point 7",
+                    "PointId": 18
+                }
+            ]
         },
         {
-            "PointId": 18,
             "EquipmentId": 18,
-            "Name": "Point 5"
+            "EquipmentName": "Equipment 5",
+            "Point": [
+                {
+                    "PointName": "Point 9",
+                    "PointId": 112
+                },
+                {
+                    "PointName": "Point 10",
+                    "PointId": 113
+                }
+            ]
         },
         {
-            "PointId": 19,
             "EquipmentId": 19,
-            "Name": "Point 6"
+            "EquipmentName": "Equipment 6",
+            "Point": [
+                {
+                    "PointName": "Point 11",
+                    "PointId": 114
+                },
+                {
+                    "PointName": "Point 12",
+                    "PointId": 115
+                }
+            ]
         }
     ]
 }
