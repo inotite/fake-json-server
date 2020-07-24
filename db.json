@@ -92,5 +92,53 @@
                 }
             ]
         }
+    ],
+    "floors": [
+        {
+            "FloorId": 1,
+            "FloorName": "Floor 1"
+        },
+        {
+            "FloorId": 2,
+            "FloorName": "Floor 2"
+        },
+        {
+            "FloorId": 3,
+            "FloorName": "Floor 3"
+        },
+        {
+            "FloorId": 4,
+            "FloorName": "Floor 4"
+        },
+        {
+            "FloorId": 5,
+            "FloorName": "Floor 5"
+        },
+        {
+            "FloorId": 6,
+            "FloorName": "Floor 6"
+        }
+    ],
+    "zones": [
+        {
+            "ZoneId": 1,
+            "ZoneName": "Zone 1"
+        },
+        {
+            "ZoneId": 2,
+            "ZoneName": "Zone 2"
+        },
+        {
+            "ZoneId": 3,
+            "ZoneName": "Zone 3"
+        },
+        {
+            "ZoneId": 4,
+            "ZoneName": "Zone 4"
+        },
+        {
+            "ZoneId": 5,
+            "ZoneName": "Zone 5"
+        }
     ]
 }
